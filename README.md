@@ -1,6 +1,6 @@
 # Flutter Menubar App Example
 
-This is a start template for building a menubar app in Flutter. In other words, you open the app by clicking an icon in the system tray. The app can be hidden and recalled, all the while saving its state.
+This is a starter template for building a menubar app in Flutter. In other words, you open the app by clicking an icon in the system tray. The app can be hidden and recalled, all the while saving its state.
 
 <img src="doc/screenshot.png" width="600">
 
